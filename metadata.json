@@ -1,0 +1,5 @@
+{
+  "name": "DV Lottery Photo Checker",
+  "description": "An AI-powered tool to check if your photos meet the 7 key requirements for the US Diversity Visa (DV) program. It provides an interactive checklist, auto-crops photos to the correct specifications, and allows batch processing, all locally in your browser.",
+  "requestFramePermissions": []
+}
